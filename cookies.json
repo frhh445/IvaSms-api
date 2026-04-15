@@ -1,1 +1,10 @@
-#Your Json Formated Cookies Here
+[
+  {
+    "name": "ivas_sms_session",
+    "value": "eyJpdiI6IkxtdDZocDdSQ2ovVVdHdGxiaHNwdnc9PSIsInZhbHVlIjoicloyY1lQK2NYZXZTcitDaWZDZVhWLzFtZzlob1M0VEFJMlNQVFRQZjk2Njh3ZzVqUEk0eUJnNitPVCtkL29lRGZFcXFiWUhUemtQVXQ4ZWlzbmsyWmJJdjU1Ry80am8vMDRneGNBUEZyUTB1NFBUdFJ0V3QwUXJqMGhOc3VUNFAiLCJtYWMiOiJlYTVjNTkzYjRiZWU0MmU5MTE1M2M4NGYwOWQ1ZWJmMzMzZDU2MjIxZmZkZTM1MTA1M2UyMGNmMmRiNDM5MThjIiwidGFnIjoiIn0=",
+    "domain": ".ivasms.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]
